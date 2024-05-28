@@ -1,0 +1,15 @@
+'Kolkata' : 4486679,
+'Delhi' : 11007835,
+'Mumbai' : 12442373,
+'Guwahati' : 957352,
+'Bangalore' : 8436675,
+'Pune' : 3124458,
+'Hyderabad' : 6809970,
+'Chennai' : 4681087,
+'Thiruvananthapuram' : 460468,
+'Bhubaneshwar' : 837737,
+'Varanasi' : 1198491,
+'Surat' : 4467797,
+'Goa' : 40017,
+'Chandigarh' : 961587
+        
